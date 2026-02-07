@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Ride On",
+  "base_artist": "KMNZ",
+  "createdAt": "2026-02-07T02:32:04.288852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ride On",
+      "artist": "Tucker Beathard",
+      "has_synced": false,
+      "path": "select/01_Ride_On_Tucker_Beathard.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ride On",
+      "artist": "Thomas D",
+      "has_synced": false,
+      "path": "select/02_Ride_On_Thomas_D.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ride on the Rhythm (Masters at Work dub)",
+      "artist": "Little Louie & Marc Anthony",
+      "has_synced": false,
+      "path": "select/03_Ride_on_the_Rhythm_(Masters_at_Work_dub)_Little_Louie_&_Marc_Anthony.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ride On Time",
+      "artist": "Black Box",
+      "has_synced": true,
+      "path": "select/04_Ride_On_Time_Black_Box.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ride on the Wild Side",
+      "artist": "Running Wild",
+      "has_synced": false,
+      "path": "select/05_Ride_on_the_Wild_Side_Running_Wild.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ride On",
+      "artist": "Grave Digger",
+      "has_synced": true,
+      "path": "select/06_Ride_On_Grave_Digger.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ride On",
+      "artist": "Metalium",
+      "has_synced": false,
+      "path": "select/07_Ride_On_Metalium.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "RIDE ON",
+      "artist": "TRiDENT",
+      "has_synced": false,
+      "path": "select/08_RIDE_ON_TRiDENT.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ride On and Turn the People On",
+      "artist": "Finley Quaye",
+      "has_synced": true,
+      "path": "select/09_Ride_On_and_Turn_the_People_On_Finley_Quaye.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Ride On A Pony",
+      "artist": "Free",
+      "has_synced": true,
+      "path": "select/10_Ride_On_A_Pony_Free.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ride On A Pony - BBC Session",
+      "artist": "Free",
+      "has_synced": false,
+      "path": "select/11_Ride_On_A_Pony_-_BBC_Session_Free.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Ride On Baby",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/12_Ride_On_Baby_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Ride On",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/13_Ride_On_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Ride On",
+      "artist": "AC/DC",
+      "has_synced": true,
+      "path": "select/14_Ride_On_AC_DC.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ride on Shooting Star",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/15_Ride_on_Shooting_Star_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "RIDE ON TIME （シングル・ヴァージョン）",
+      "artist": "山下達郎",
+      "has_synced": true,
+      "path": "select/16_RIDE_ON_TIME_(シングル・ヴァージョン)_山下達郎.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ride On",
+      "artist": "KMNZ",
+      "has_synced": false,
+      "path": "select/pl_01_Ride_On_KMNZ.txt"
+    }
+  ]
+}
